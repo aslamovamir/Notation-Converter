@@ -173,7 +173,6 @@ void NotationConverter::Printer() {
     dequeConverted.printDeque();
 }
 
-cout<<"Hello world!"<<endl;
 //postfix notation to infix notation
 string NotationConverter::postfixToInfix(string inStr) {
     
